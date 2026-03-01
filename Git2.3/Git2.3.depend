@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1771190842 source:c:\users\Àðò¸ì\desktop\git\git2.3\git2.3\main.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<ctime>
+
